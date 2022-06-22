@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: AuctionItemsPriceComparator
+## Version: 0.0.1
+## Notes: Writes the auction items name and price to a file
+## SavedVariables: AuctionItemsPriceComparatorDB
+
+AuctionItemsPriceComparator.lua
+AuctionItemsPriceComparatorCORE.lua
